@@ -1,0 +1,53 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+Voy a llenar el formulario
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Max attempts reached for order: {'Order number': '10', 'Head': '4', 'Body': '4', 'Legs': '2', 'Address': 'Address 7'}
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+Error al enviar el pedido: Submit failed, retrying...
+Voy a sacar foto
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Users\fede_\OneDrive\Documentos\Robocorp\my-rsb-robot-2\output\log.html
